@@ -1,0 +1,66 @@
+name: Refresh sales dashboard data
+# Pulls Completed_JobCostingSheets + Sales Leads Pipeline + Operations Schedule
+# from Smartsheet, transforms into data.json, commits to repo.
+# Same-origin fetch from index.html — no CORS issues.
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - 'data.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch sheets from Smartsheet API
+        env:
+          TOKEN: 'p24Cgh1izpdYeclFRk4gE6m9nCuEoBW5Nkywe'
+        run: |
+          curl -sS -H "Authorization: Bearer $TOKEN" \
+            "https://api.smartsheet.com/2.0/sheets/1949251609251716?pageSize=10000" -o jc_raw.json
+          curl -sS -H "Authorization: Bearer $TOKEN" \
+            "https://api.smartsheet.com/2.0/sheets/1219635434180484?pageSize=10000" -o lp_raw.json
+          curl -sS -H "Authorization: Bearer $TOKEN" \
+            "https://api.smartsheet.com/2.0/sheets/1728592246427524?pageSize=10000" -o os_raw.json
+          echo "jc: $(wc -c < jc_raw.json) bytes, lp: $(wc -c < lp_raw.json), os: $(wc -c < os_raw.json)"
+
+      - name: Transform to data.json
+        run: |
+          python3 .github/scripts/transform.py jc_raw.json lp_raw.json os_raw.json > data.json.new
+          mv data.json.new data.json
+          rm -f jc_raw.json lp_raw.json os_raw.json
+          echo "data.json: $(wc -c < data.json) bytes"
+
+      - name: Commit and push (with retry)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit"
+            exit 0
+          fi
+          git commit -m "Refresh sales data.json ($(date -u +%Y-%m-%dT%H:%MZ))"
+          for attempt in 1 2 3; do
+            if git push; then
+              echo "Pushed on attempt $attempt"; exit 0
+            fi
+            git fetch origin main
+            git rebase origin/main || git rebase --abort
+            sleep $((attempt * 2))
+          done
+          echo "Push failed after 3 attempts"
+          exit 1

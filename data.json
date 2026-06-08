@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-06-08T23:01:27+00:00",
+  "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
+  "asOf": {
+    "today": "2026-06-08",
+    "mtdStart": "2026-06-01",
+    "priorMtdStart": "2026-05-01",
+    "priorMtdEnd": "2026-05-31"
+  },
+  "kpis": {
+    "hitRate90d": {
+      "wonCount": 9,
+      "lostCount": 0,
+      "ratePct": 100.0
+    },
+    "soldMTD": {
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 57803,
+      "yoySameMonth": 0,
+      "dateSignedPopulated": false,
+      "note": "by Date of Estimate — Date Signed not populated"
+    },
+    "bidMTD": {
+      "amount": 2304551,
+      "count": 26,
+      "priorMonth": 21349054
+    },
+    "laborMonthBacklog": {
+      "months": 0.14,
+      "totalCrewDays": 18,
+      "capacityCrewDaysPerMonth": 132
+    },
+    "avgPerSY": {
+      "last30": 143.53,
+      "prior30": 63.6,
+      "deltaPct": 125.7,
+      "sampleSizeRecent": 2,
+      "sampleSizePrior": 2
+    }
+  },
+  "pipeline": {
+    "stages": [
+      {
+        "name": "Estimations Open",
+        "count": 1,
+        "amount": 487464
+      },
+      {
+        "name": "Aging > 5 days",
+        "count": 1,
+        "amount": 487464
+      },
+      {
+        "name": "Awarded Not Scheduled",
+        "count": 2,
+        "amount": 8357
+      },
+      {
+        "name": "In Production",
+        "count": 8,
+        "amount": 687868
+      }
+    ]
+  },
+  "estimators": [
+    {
+      "name": "D Vaillancourt",
+      "bidsCount": 9,
+      "bidsAmount": 1177275,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "K Sprague",
+      "bidsCount": 5,
+      "bidsAmount": 0,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "B Dunn",
+      "bidsCount": 7,
+      "bidsAmount": 689038,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "S Milbury",
+      "bidsCount": 5,
+      "bidsAmount": 438238,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    }
+  ],
+  "weeklySeries": [
+    {
+      "weekStart": "2026-03-16",
+      "bid": 3497174,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-03-23",
+      "bid": 5782606,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-03-30",
+      "bid": 5814066,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-04-06",
+      "bid": 106309860,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-04-13",
+      "bid": 5874444,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-04-20",
+      "bid": 2402992,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-04-27",
+      "bid": 4442243,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-05-04",
+      "bid": 4762377,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-05-11",
+      "bid": 8866793,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-05-18",
+      "bid": 3432643,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-05-25",
+      "bid": 1672687,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-06-01",
+      "bid": 1769395,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-06-08",
+      "bid": 535155,
+      "won": 0,
+      "wonLY": 0
+    }
+  ],
+  "topCustomers": [],
+  "agingOpenBids": [
+    {
+      "jobId": "3587-26",
+      "jobNum": "3587-26",
+      "company": "Salem Covenant Church",
+      "amount": 487464,
+      "ageDays": 101
+    }
+  ],
+  "leadPipeline": {
+    "tierCounts": {
+      "A-Tier": 12,
+      "B-Tier": 74,
+      "C-Tier": 17
+    },
+    "tierValue": {
+      "A-Tier": 10871900,
+      "B-Tier": 9887151,
+      "C-Tier": 1975001
+    },
+    "outreachCounts": {
+      "Not Started": 101,
+      "New Lead": 1,
+      "Email Sent": 1
+    },
+    "totalLeads": 103,
+    "totalValue": 22734052
+  }
+}
