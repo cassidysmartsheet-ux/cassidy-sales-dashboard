@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-06-14T23:50:01+00:00",
+  "generatedAt": "2026-06-15T03:53:40+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-06-14",
+    "today": "2026-06-15",
     "mtdStart": "2026-06-01",
     "priorMtdStart": "2026-05-01",
     "priorMtdEnd": "2026-05-31"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 9,
+      "wonCount": 8,
       "lostCount": 0,
       "ratePct": 100.0
     },
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 3780058,
-      "count": 45,
+      "amount": 4582292,
+      "count": 46,
       "priorMonth": 21349054
     },
     "laborMonthBacklog": {
@@ -33,10 +33,10 @@
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 103.56,
+      "prior30": 121.53,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 4
+      "sampleSizePrior": 3
     }
   },
   "pipeline": {
@@ -65,18 +65,18 @@
   },
   "estimators": [
     {
-      "name": "B Dunn",
-      "bidsCount": 10,
-      "bidsAmount": 797573,
+      "name": "D Vaillancourt",
+      "bidsCount": 16,
+      "bidsAmount": 2405582,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
       "hitRatePct": null
     },
     {
-      "name": "D Vaillancourt",
-      "bidsCount": 15,
-      "bidsAmount": 1603348,
+      "name": "B Dunn",
+      "bidsCount": 10,
+      "bidsAmount": 797573,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -111,12 +111,6 @@
     }
   ],
   "weeklySeries": [
-    {
-      "weekStart": "2026-03-16",
-      "bid": 3497174,
-      "won": 0,
-      "wonLY": 0
-    },
     {
       "weekStart": "2026-03-23",
       "bid": 5782606,
@@ -185,7 +179,13 @@
     },
     {
       "weekStart": "2026-06-08",
-      "bid": 2008852,
+      "bid": 2811086,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-06-15",
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     }
@@ -197,7 +197,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 107
+      "ageDays": 108
     }
   ],
   "leadPipeline": {
