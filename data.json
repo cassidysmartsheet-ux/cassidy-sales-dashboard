@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T20:41:24+00:00",
+  "generatedAt": "2026-06-22T22:25:28+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-06-22",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 7474642,
-      "count": 73,
+      "amount": 7539642,
+      "count": 74,
       "priorMonth": 21461121
     },
     "laborMonthBacklog": {
@@ -53,21 +53,21 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 120424
+        "count": 2,
+        "amount": 8357
       },
       {
         "name": "In Production",
-        "count": 8,
-        "amount": 687868
+        "count": 9,
+        "amount": 799935
       }
     ]
   },
   "estimators": [
     {
       "name": "D Vaillancourt",
-      "bidsCount": 23,
-      "bidsAmount": 2735066,
+      "bidsCount": 24,
+      "bidsAmount": 2800066,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -185,7 +185,7 @@
     },
     {
       "weekStart": "2026-06-22",
-      "bid": 691792,
+      "bid": 756792,
       "won": 0,
       "wonLY": 0
     }
