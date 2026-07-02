@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-01T23:55:16+00:00",
+  "generatedAt": "2026-07-02T02:54:15+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-01",
+    "today": "2026-07-02",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 0,
-      "count": 0,
+      "amount": 184549,
+      "count": 2,
       "priorMonth": 10088523
     },
     "laborMonthBacklog": {
@@ -63,7 +63,17 @@
       }
     ]
   },
-  "estimators": [],
+  "estimators": [
+    {
+      "name": "K Sprague",
+      "bidsCount": 2,
+      "bidsAmount": 184549,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    }
+  ],
   "weeklySeries": [
     {
       "weekStart": "2026-04-06",
@@ -139,7 +149,7 @@
     },
     {
       "weekStart": "2026-06-29",
-      "bid": 372503,
+      "bid": 557052,
       "won": 0,
       "wonLY": 0
     }
@@ -151,7 +161,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 124
+      "ageDays": 125
     }
   ],
   "leadPipeline": {
