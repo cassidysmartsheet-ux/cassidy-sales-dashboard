@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-06T23:44:20+00:00",
+  "generatedAt": "2026-07-07T01:25:11+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-06",
+    "today": "2026-07-07",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
@@ -86,7 +86,7 @@
   "weeklySeries": [
     {
       "weekStart": "2026-04-13",
-      "bid": 5874444,
+      "bid": 5901827,
       "won": 0,
       "wonLY": 0
     },
@@ -170,7 +170,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 129
+      "ageDays": 130
     }
   ],
   "leadPipeline": {
