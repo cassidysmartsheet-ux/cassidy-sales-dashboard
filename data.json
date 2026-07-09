@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-08T23:34:50+00:00",
+  "generatedAt": "2026-07-09T01:15:05+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-08",
+    "today": "2026-07-09",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
@@ -188,7 +188,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 131
+      "ageDays": 132
     }
   ],
   "leadPipeline": {
