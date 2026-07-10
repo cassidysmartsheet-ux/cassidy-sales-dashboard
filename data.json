@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-09T23:45:00+00:00",
+  "generatedAt": "2026-07-10T01:17:28+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-09",
+    "today": "2026-07-10",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 9,
+      "wonCount": 10,
       "lostCount": 0,
       "ratePct": 100.0
     },
@@ -27,8 +27,8 @@
       "priorMonth": 10603241
     },
     "laborMonthBacklog": {
-      "months": 0.23,
-      "totalCrewDays": 31,
+      "months": 0.25,
+      "totalCrewDays": 33,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 3,
+        "amount": 111014
       },
       {
         "name": "In Production",
@@ -110,7 +110,7 @@
     },
     {
       "weekStart": "2026-04-20",
-      "bid": 2402992,
+      "bid": 2505649,
       "won": 0,
       "wonLY": 0
     },
@@ -188,7 +188,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 132
+      "ageDays": 133
     }
   ],
   "leadPipeline": {
