@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T07:27:57+00:00",
+  "generatedAt": "2026-07-15T09:29:15+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-07-15",
@@ -9,214 +9,148 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 9,
+      "wonCount": 0,
       "lostCount": 0,
-      "ratePct": 100.0
+      "ratePct": null
     },
     "soldMTD": {
       "amount": 0,
       "count": 0,
-      "priorMonth": 514717,
+      "priorMonth": 0,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 5848621,
-      "count": 35,
-      "priorMonth": 10603241
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 0
     },
     "laborMonthBacklog": {
-      "months": 0.25,
-      "totalCrewDays": 33,
+      "months": 0.0,
+      "totalCrewDays": 0,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 26.03,
+      "prior30": null,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 2
+      "sampleSizePrior": 0
     }
   },
   "pipeline": {
     "stages": [
       {
         "name": "Estimations Open",
-        "count": 1,
-        "amount": 487464
+        "count": 0,
+        "amount": 0
       },
       {
         "name": "Aging > 5 days",
-        "count": 1,
-        "amount": 487464
+        "count": 0,
+        "amount": 0
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 0,
+        "amount": 0
       },
       {
         "name": "In Production",
-        "count": 11,
-        "amount": 1417309
+        "count": 0,
+        "amount": 0
       }
     ]
   },
-  "estimators": [
-    {
-      "name": "D Vaillancourt",
-      "bidsCount": 12,
-      "bidsAmount": 3159543,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "K Sprague",
-      "bidsCount": 8,
-      "bidsAmount": 739152,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "Dan Dambro",
-      "bidsCount": 1,
-      "bidsAmount": 343066,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "S Milbury",
-      "bidsCount": 8,
-      "bidsAmount": 1035310,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "B Dunn",
-      "bidsCount": 6,
-      "bidsAmount": 571550,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    }
-  ],
+  "estimators": [],
   "weeklySeries": [
     {
       "weekStart": "2026-04-20",
-      "bid": 2505649,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-04-27",
-      "bid": 4442243,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-05-04",
-      "bid": 4762377,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-05-11",
-      "bid": 8866793,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-05-18",
-      "bid": 3432643,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-05-25",
-      "bid": 1784755,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-01",
-      "bid": 2285923,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-08",
-      "bid": 2811086,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-15",
-      "bid": 2185865,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-22",
-      "bid": 2947863,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-29",
-      "bid": 723930,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-06",
-      "bid": 2260963,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-13",
-      "bid": 3236231,
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     }
   ],
   "topCustomers": [],
-  "agingOpenBids": [
-    {
-      "jobId": "3587-26",
-      "jobNum": "3587-26",
-      "company": "Salem Covenant Church",
-      "amount": 487464,
-      "ageDays": 138
-    }
-  ],
+  "agingOpenBids": [],
   "leadPipeline": {
-    "tierCounts": {
-      "A-Tier": 12,
-      "B-Tier": 74,
-      "C-Tier": 17
-    },
-    "tierValue": {
-      "A-Tier": 10871900,
-      "B-Tier": 9887151,
-      "C-Tier": 1975001
-    },
-    "outreachCounts": {
-      "Not Started": 101,
-      "New Lead": 1,
-      "Email Sent": 1
-    },
-    "totalLeads": 103,
-    "totalValue": 22734052
+    "tierCounts": {},
+    "tierValue": {},
+    "outreachCounts": {},
+    "totalLeads": 0,
+    "totalValue": 0
   }
 }
