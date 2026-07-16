@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-15T23:11:34+00:00",
+  "generatedAt": "2026-07-16T00:09:47+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-15",
+    "today": "2026-07-16",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 5868761,
-      "count": 36,
+      "amount": 6096528,
+      "count": 38,
       "priorMonth": 10603241
     },
     "laborMonthBacklog": {
@@ -65,6 +65,15 @@
   },
   "estimators": [
     {
+      "name": "B Dunn",
+      "bidsCount": 8,
+      "bidsAmount": 799317,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
       "name": "S Milbury",
       "bidsCount": 9,
       "bidsAmount": 1055450,
@@ -95,15 +104,6 @@
       "name": "Dan Dambro",
       "bidsCount": 1,
       "bidsAmount": 343066,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "B Dunn",
-      "bidsCount": 6,
-      "bidsAmount": 571550,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -185,7 +185,7 @@
     },
     {
       "weekStart": "2026-07-13",
-      "bid": 3256371,
+      "bid": 3484137,
       "won": 0,
       "wonLY": 0
     }
@@ -197,7 +197,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 138
+      "ageDays": 139
     }
   ],
   "leadPipeline": {
