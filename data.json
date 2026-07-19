@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T23:35:27+00:00",
+  "generatedAt": "2026-07-19T01:09:55+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-07-18",
+    "today": "2026-07-19",
     "mtdStart": "2026-07-01",
     "priorMtdStart": "2026-06-01",
     "priorMtdEnd": "2026-06-30"
@@ -48,8 +48,8 @@
       },
       {
         "name": "Aging > 5 days",
-        "count": 1,
-        "amount": 487464
+        "count": 2,
+        "amount": 543389
       },
       {
         "name": "Awarded Not Scheduled",
@@ -197,7 +197,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 141
+      "ageDays": 142
     }
   ],
   "leadPipeline": {
