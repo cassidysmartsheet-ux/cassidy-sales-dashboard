@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:02:50+00:00",
+  "generatedAt": "2026-07-20T15:20:16+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-07-20",
@@ -9,34 +9,34 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 9,
+      "wonCount": 10,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 0,
       "count": 0,
-      "priorMonth": 514717,
+      "priorMonth": 1130376,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 6303200,
-      "count": 44,
-      "priorMonth": 10603241
+      "amount": 6330341,
+      "count": 45,
+      "priorMonth": 11218899
     },
     "laborMonthBacklog": {
-      "months": 0.25,
-      "totalCrewDays": 33,
+      "months": 0.34,
+      "totalCrewDays": 45,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 26.03,
+      "prior30": 25.52,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 2
+      "sampleSizePrior": 3
     }
   },
   "pipeline": {
@@ -58,16 +58,16 @@
       },
       {
         "name": "In Production",
-        "count": 11,
-        "amount": 1417309
+        "count": 12,
+        "amount": 2032968
       }
     ]
   },
   "estimators": [
     {
       "name": "B Dunn",
-      "bidsCount": 13,
-      "bidsAmount": 962639,
+      "bidsCount": 14,
+      "bidsAmount": 989781,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -149,7 +149,7 @@
     },
     {
       "weekStart": "2026-06-08",
-      "bid": 2811086,
+      "bid": 3426744,
       "won": 0,
       "wonLY": 0
     },
@@ -185,7 +185,7 @@
     },
     {
       "weekStart": "2026-07-20",
-      "bid": 0,
+      "bid": 27142,
       "won": 0,
       "wonLY": 0
     }
