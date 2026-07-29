@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:37:26+00:00",
+  "generatedAt": "2026-07-29T18:40:52+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-07-29",
@@ -24,7 +24,7 @@
     "bidMTD": {
       "amount": 8443623,
       "count": 69,
-      "priorMonth": 11225332
+      "priorMonth": 11220022
     },
     "laborMonthBacklog": {
       "months": 0.34,
@@ -149,7 +149,7 @@
     },
     {
       "weekStart": "2026-06-15",
-      "bid": 2192299,
+      "bid": 2186989,
       "won": 0,
       "wonLY": 0
     },
