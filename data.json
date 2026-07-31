@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T16:46:23+00:00",
+  "generatedAt": "2026-07-31T18:16:55+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-07-31",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 9014783,
-      "count": 77,
+      "amount": 9047641,
+      "count": 78,
       "priorMonth": 11271817
     },
     "laborMonthBacklog": {
@@ -66,8 +66,8 @@
   "estimators": [
     {
       "name": "B Dunn",
-      "bidsCount": 21,
-      "bidsAmount": 1255917,
+      "bidsCount": 22,
+      "bidsAmount": 1288775,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -185,7 +185,7 @@
     },
     {
       "weekStart": "2026-07-27",
-      "bid": 1425963,
+      "bid": 1458821,
       "won": 0,
       "wonLY": 0
     }
