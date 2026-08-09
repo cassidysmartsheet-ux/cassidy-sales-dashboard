@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-08T23:53:35+00:00",
+  "generatedAt": "2026-08-09T01:21:03+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-08-08",
+    "today": "2026-08-09",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31"
@@ -188,14 +188,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 162
+      "ageDays": 163
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 25
+      "ageDays": 26
     }
   ],
   "leadPipeline": {
