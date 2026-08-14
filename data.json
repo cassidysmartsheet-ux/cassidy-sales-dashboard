@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T05:48:02+00:00",
+  "generatedAt": "2026-08-14T07:18:15+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-14",
@@ -9,9 +9,9 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 0,
+      "wonCount": 3,
       "lostCount": 0,
-      "ratePct": null
+      "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 0,
@@ -22,13 +22,13 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 0,
-      "count": 0,
-      "priorMonth": 0
+      "amount": 3540150,
+      "count": 40,
+      "priorMonth": 9067044
     },
     "laborMonthBacklog": {
-      "months": 0.0,
-      "totalCrewDays": 0,
+      "months": 0.34,
+      "totalCrewDays": 45,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
@@ -43,109 +43,161 @@
     "stages": [
       {
         "name": "Estimations Open",
-        "count": 0,
-        "amount": 0
+        "count": 2,
+        "amount": 543389
       },
       {
         "name": "Aging > 5 days",
-        "count": 0,
-        "amount": 0
+        "count": 2,
+        "amount": 543389
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 0,
-        "amount": 0
+        "count": 2,
+        "amount": 8357
       },
       {
         "name": "In Production",
-        "count": 0,
-        "amount": 0
+        "count": 12,
+        "amount": 2032968
       }
     ]
   },
-  "estimators": [],
+  "estimators": [
+    {
+      "name": "D Vaillancourt",
+      "bidsCount": 7,
+      "bidsAmount": 641052,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "K Sprague",
+      "bidsCount": 15,
+      "bidsAmount": 1018034,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "S Milbury",
+      "bidsCount": 8,
+      "bidsAmount": 1193816,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
+      "name": "B Dunn",
+      "bidsCount": 10,
+      "bidsAmount": 687247,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    }
+  ],
   "weeklySeries": [
     {
       "weekStart": "2026-05-18",
-      "bid": 0,
+      "bid": 3432643,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-05-25",
-      "bid": 0,
+      "bid": 1784755,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-01",
-      "bid": 0,
+      "bid": 2285923,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-08",
-      "bid": 0,
+      "bid": 3426744,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-15",
-      "bid": 0,
+      "bid": 2238784,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-22",
-      "bid": 0,
+      "bid": 2947863,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-06-29",
-      "bid": 0,
+      "bid": 723930,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-06",
-      "bid": 0,
+      "bid": 2260963,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-13",
-      "bid": 0,
+      "bid": 3690809,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-20",
-      "bid": 0,
+      "bid": 1285620,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-07-27",
-      "bid": 0,
+      "bid": 1490435,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-08-03",
-      "bid": 0,
+      "bid": 2732746,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-08-10",
-      "bid": 0,
+      "bid": 795193,
       "won": 0,
       "wonLY": 0
     }
   ],
   "topCustomers": [],
-  "agingOpenBids": [],
+  "agingOpenBids": [
+    {
+      "jobId": "3587-26",
+      "jobNum": "3587-26",
+      "company": "Salem Covenant Church",
+      "amount": 487464,
+      "ageDays": 168
+    },
+    {
+      "jobId": "4199-26",
+      "jobNum": "4199-26",
+      "company": "Equity Partners",
+      "amount": 55925,
+      "ageDays": 31
+    }
+  ],
   "leadPipeline": {
     "tierCounts": {
       "A-Tier": 12,
