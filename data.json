@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T17:43:29+00:00",
+  "generatedAt": "2026-08-17T18:03:54+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-17",
@@ -9,33 +9,33 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 3,
+      "wonCount": 4,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
-      "amount": 0,
-      "count": 0,
+      "amount": 421192,
+      "count": 1,
       "priorMonth": 0,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 5169063,
+      "amount": 5562338,
       "count": 57,
       "priorMonth": 9014444
     },
     "laborMonthBacklog": {
-      "months": 0.34,
-      "totalCrewDays": 45,
+      "months": 0.39,
+      "totalCrewDays": 52,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
-      "last30": null,
+      "last30": 42.14,
       "prior30": null,
       "deltaPct": null,
-      "sampleSizeRecent": 0,
+      "sampleSizeRecent": 1,
       "sampleSizePrior": 0
     }
   },
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 3,
+        "amount": 429549
       },
       {
         "name": "In Production",
@@ -64,6 +64,15 @@
     ]
   },
   "estimators": [
+    {
+      "name": "K Sprague",
+      "bidsCount": 17,
+      "bidsAmount": 1521244,
+      "wonCount": 1,
+      "wonAmount": 421192,
+      "lostCount": 0,
+      "hitRatePct": 100.0
+    },
     {
       "name": "S Milbury",
       "bidsCount": 14,
@@ -77,15 +86,6 @@
       "name": "D Vaillancourt",
       "bidsCount": 16,
       "bidsAmount": 1275648,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "K Sprague",
-      "bidsCount": 17,
-      "bidsAmount": 1127970,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -170,7 +170,7 @@
     },
     {
       "weekStart": "2026-08-10",
-      "bid": 1286924,
+      "bid": 1680199,
       "won": 0,
       "wonLY": 0
     },
@@ -181,7 +181,12 @@
       "wonLY": 0
     }
   ],
-  "topCustomers": [],
+  "topCustomers": [
+    {
+      "name": "G and M New England",
+      "amount": 421192
+    }
+  ],
   "agingOpenBids": [
     {
       "jobId": "3587-26",
