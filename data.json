@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T19:15:43+00:00",
+  "generatedAt": "2026-08-18T19:47:49+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-18",
@@ -59,7 +59,7 @@
       {
         "name": "In Production",
         "count": 13,
-        "amount": 2226547
+        "amount": 2215167
       }
     ]
   },
@@ -122,7 +122,7 @@
     },
     {
       "weekStart": "2026-06-15",
-      "bid": 2261651,
+      "bid": 2250270,
       "won": 0,
       "wonLY": 0
     },
