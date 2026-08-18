@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:31:46+00:00",
+  "generatedAt": "2026-08-18T19:15:43+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-18",
@@ -9,7 +9,7 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 4,
+      "wonCount": 5,
       "lostCount": 0,
       "ratePct": 100.0
     },
@@ -27,8 +27,8 @@
       "priorMonth": 9014444
     },
     "laborMonthBacklog": {
-      "months": 0.39,
-      "totalCrewDays": 52,
+      "months": 0.42,
+      "totalCrewDays": 55,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
@@ -58,8 +58,8 @@
       },
       {
         "name": "In Production",
-        "count": 12,
-        "amount": 2032968
+        "count": 13,
+        "amount": 2226547
       }
     ]
   },
@@ -122,7 +122,7 @@
     },
     {
       "weekStart": "2026-06-15",
-      "bid": 2238784,
+      "bid": 2261651,
       "won": 0,
       "wonLY": 0
     },
