@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:00:54+00:00",
+  "generatedAt": "2026-08-19T11:38:07+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-19",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 6394134,
-      "count": 61,
+      "amount": 6399141,
+      "count": 62,
       "priorMonth": 9014444
     },
     "laborMonthBacklog": {
@@ -74,6 +74,15 @@
       "hitRatePct": 100.0
     },
     {
+      "name": "S Milbury",
+      "bidsCount": 15,
+      "bidsAmount": 2083205,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
       "name": "D Vaillancourt",
       "bidsCount": 18,
       "bidsAmount": 1798170,
@@ -86,15 +95,6 @@
       "name": "B Dunn",
       "bidsCount": 12,
       "bidsAmount": 996521,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "S Milbury",
-      "bidsCount": 14,
-      "bidsAmount": 2078198,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -176,7 +176,7 @@
     },
     {
       "weekStart": "2026-08-17",
-      "bid": 1968978,
+      "bid": 1973985,
       "won": 0,
       "wonLY": 0
     }
