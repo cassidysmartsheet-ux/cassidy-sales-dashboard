@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:59:47+00:00",
+  "generatedAt": "2026-08-19T13:01:04+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-19",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 6770971,
-      "count": 63,
+      "amount": 6849552,
+      "count": 64,
       "priorMonth": 9014444
     },
     "laborMonthBacklog": {
@@ -75,8 +75,8 @@
     },
     {
       "name": "S Milbury",
-      "bidsCount": 16,
-      "bidsAmount": 2455035,
+      "bidsCount": 17,
+      "bidsAmount": 2533616,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -176,7 +176,7 @@
     },
     {
       "weekStart": "2026-08-17",
-      "bid": 2345815,
+      "bid": 2424396,
       "won": 0,
       "wonLY": 0
     }
