@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T18:54:40+00:00",
+  "generatedAt": "2026-08-21T19:22:15+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-21",
@@ -53,13 +53,13 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 429549
+        "count": 2,
+        "amount": 8357
       },
       {
         "name": "In Production",
-        "count": 13,
-        "amount": 2191726
+        "count": 14,
+        "amount": 2612917
       }
     ]
   },
