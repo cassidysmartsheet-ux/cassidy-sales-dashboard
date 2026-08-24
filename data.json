@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:54:18+00:00",
+  "generatedAt": "2026-08-24T20:24:46+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-08-24",
@@ -204,10 +204,22 @@
     }
   ],
   "leadPipeline": {
-    "tierCounts": {},
-    "tierValue": {},
-    "outreachCounts": {},
-    "totalLeads": 0,
-    "totalValue": 0
+    "tierCounts": {
+      "A-Tier": 12,
+      "B-Tier": 74,
+      "C-Tier": 17
+    },
+    "tierValue": {
+      "A-Tier": 10871900,
+      "B-Tier": 9887151,
+      "C-Tier": 1975001
+    },
+    "outreachCounts": {
+      "Not Started": 101,
+      "New Lead": 1,
+      "Email Sent": 1
+    },
+    "totalLeads": 103,
+    "totalValue": 22734052
   }
 }
