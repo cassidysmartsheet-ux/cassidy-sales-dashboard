@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-23T23:59:00+00:00",
+  "generatedAt": "2026-08-24T01:44:42+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-08-23",
+    "today": "2026-08-24",
     "mtdStart": "2026-08-01",
     "priorMtdStart": "2026-07-01",
     "priorMtdEnd": "2026-07-31"
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 7898107,
-      "count": 72,
+      "amount": 8031586,
+      "count": 74,
       "priorMonth": 9014444
     },
     "laborMonthBacklog": {
@@ -74,18 +74,18 @@
       "hitRatePct": 100.0
     },
     {
-      "name": "B Dunn",
-      "bidsCount": 17,
-      "bidsAmount": 2013063,
+      "name": "D Vaillancourt",
+      "bidsCount": 21,
+      "bidsAmount": 1933100,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
       "hitRatePct": null
     },
     {
-      "name": "D Vaillancourt",
-      "bidsCount": 19,
-      "bidsAmount": 1799620,
+      "name": "B Dunn",
+      "bidsCount": 17,
+      "bidsAmount": 2013063,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -102,12 +102,6 @@
     }
   ],
   "weeklySeries": [
-    {
-      "weekStart": "2026-05-25",
-      "bid": 1784755,
-      "won": 0,
-      "wonLY": 0
-    },
     {
       "weekStart": "2026-06-01",
       "bid": 2052795,
@@ -176,7 +170,13 @@
     },
     {
       "weekStart": "2026-08-17",
-      "bid": 3472951,
+      "bid": 3606430,
+      "won": 0,
+      "wonLY": 0
+    },
+    {
+      "weekStart": "2026-08-24",
+      "bid": 0,
       "won": 0,
       "wonLY": 0
     }
@@ -193,14 +193,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 177
+      "ageDays": 178
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 40
+      "ageDays": 41
     }
   ],
   "leadPipeline": {
