@@ -1,42 +1,42 @@
 {
-  "generatedAt": "2026-08-31T22:00:07+00:00",
+  "generatedAt": "2026-09-01T01:11:39+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-08-31",
-    "mtdStart": "2026-08-01",
-    "priorMtdStart": "2026-07-01",
-    "priorMtdEnd": "2026-07-31"
+    "today": "2026-09-01",
+    "mtdStart": "2026-09-01",
+    "priorMtdStart": "2026-08-01",
+    "priorMtdEnd": "2026-08-31"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 4,
+      "wonCount": 6,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
-      "amount": 421192,
-      "count": 1,
-      "priorMonth": 0,
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 742345,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 12146454,
-      "count": 91,
-      "priorMonth": 9014444
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 12146454
     },
     "laborMonthBacklog": {
-      "months": 0.42,
-      "totalCrewDays": 55,
+      "months": 0.51,
+      "totalCrewDays": 67,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
-      "last30": 42.14,
-      "prior30": null,
-      "deltaPct": null,
-      "sampleSizeRecent": 1,
-      "sampleSizePrior": 0
+      "last30": 41.57,
+      "prior30": 19.1,
+      "deltaPct": 117.6,
+      "sampleSizeRecent": 2,
+      "sampleSizePrior": 1
     }
   },
   "pipeline": {
@@ -58,49 +58,12 @@
       },
       {
         "name": "In Production",
-        "count": 14,
-        "amount": 2612917
+        "count": 16,
+        "amount": 3155132
       }
     ]
   },
-  "estimators": [
-    {
-      "name": "K Sprague",
-      "bidsCount": 20,
-      "bidsAmount": 1547300,
-      "wonCount": 1,
-      "wonAmount": 421192,
-      "lostCount": 0,
-      "hitRatePct": 100.0
-    },
-    {
-      "name": "S Milbury",
-      "bidsCount": 23,
-      "bidsAmount": 4611684,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "B Dunn",
-      "bidsCount": 21,
-      "bidsAmount": 3118335,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "D Vaillancourt",
-      "bidsCount": 27,
-      "bidsAmount": 2869135,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    }
-  ],
+  "estimators": [],
   "weeklySeries": [
     {
       "weekStart": "2026-06-08",
@@ -134,7 +97,7 @@
     },
     {
       "weekStart": "2026-07-13",
-      "bid": 3638209,
+      "bid": 3859270,
       "won": 0,
       "wonLY": 0
     },
@@ -181,26 +144,21 @@
       "wonLY": 0
     }
   ],
-  "topCustomers": [
-    {
-      "name": "G and M New England",
-      "amount": 421192
-    }
-  ],
+  "topCustomers": [],
   "agingOpenBids": [
     {
       "jobId": "3587-26",
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 185
+      "ageDays": 186
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 48
+      "ageDays": 49
     }
   ],
   "leadPipeline": {
