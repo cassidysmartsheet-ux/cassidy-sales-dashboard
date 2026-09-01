@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T11:43:08+00:00",
+  "generatedAt": "2026-09-01T15:33:23+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-09-01",
@@ -23,7 +23,7 @@
     },
     "bidMTD": {
       "amount": 0,
-      "count": 0,
+      "count": 1,
       "priorMonth": 12146454
     },
     "laborMonthBacklog": {
@@ -63,7 +63,17 @@
       }
     ]
   },
-  "estimators": [],
+  "estimators": [
+    {
+      "name": "K Sprague",
+      "bidsCount": 1,
+      "bidsAmount": 0,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    }
+  ],
   "weeklySeries": [
     {
       "weekStart": "2026-06-08",
