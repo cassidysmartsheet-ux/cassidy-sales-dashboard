@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-09-01T23:33:46+00:00",
+  "generatedAt": "2026-09-02T01:24:31+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-09-01",
+    "today": "2026-09-02",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 6,
+      "wonCount": 5,
       "lostCount": 0,
       "ratePct": 100.0
     },
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 5600,
-      "count": 2,
+      "amount": 20283,
+      "count": 3,
       "priorMonth": 12146454
     },
     "laborMonthBacklog": {
@@ -66,8 +66,8 @@
   "estimators": [
     {
       "name": "B Dunn",
-      "bidsCount": 1,
-      "bidsAmount": 5600,
+      "bidsCount": 2,
+      "bidsAmount": 20283,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -158,7 +158,7 @@
     },
     {
       "weekStart": "2026-08-31",
-      "bid": 942301,
+      "bid": 956985,
       "won": 0,
       "wonLY": 0
     }
@@ -170,14 +170,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 186
+      "ageDays": 187
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 49
+      "ageDays": 50
     }
   ],
   "leadPipeline": {
