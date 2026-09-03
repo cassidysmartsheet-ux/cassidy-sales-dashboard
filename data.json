@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T23:28:26+00:00",
+  "generatedAt": "2026-09-03T01:20:47+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-09-02",
+    "today": "2026-09-03",
     "mtdStart": "2026-09-01",
     "priorMtdStart": "2026-08-01",
     "priorMtdEnd": "2026-08-31"
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 566671,
-      "count": 8,
+      "amount": 961338,
+      "count": 11,
       "priorMonth": 12146454
     },
     "laborMonthBacklog": {
@@ -65,9 +65,9 @@
   },
   "estimators": [
     {
-      "name": "D Vaillancourt",
-      "bidsCount": 5,
-      "bidsAmount": 546388,
+      "name": "K Sprague",
+      "bidsCount": 2,
+      "bidsAmount": 78386,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -75,17 +75,17 @@
     },
     {
       "name": "B Dunn",
-      "bidsCount": 2,
-      "bidsAmount": 20283,
+      "bidsCount": 4,
+      "bidsAmount": 336564,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
       "hitRatePct": null
     },
     {
-      "name": "K Sprague",
-      "bidsCount": 1,
-      "bidsAmount": 0,
+      "name": "D Vaillancourt",
+      "bidsCount": 5,
+      "bidsAmount": 546388,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -167,7 +167,7 @@
     },
     {
       "weekStart": "2026-08-31",
-      "bid": 1503373,
+      "bid": 1898040,
       "won": 0,
       "wonLY": 0
     }
@@ -179,14 +179,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 187
+      "ageDays": 188
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 50
+      "ageDays": 51
     }
   ],
   "leadPipeline": {
