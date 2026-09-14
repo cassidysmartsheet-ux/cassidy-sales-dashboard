@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T10:17:33+00:00",
+  "generatedAt": "2026-09-14T16:26:10+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-09-14",
@@ -9,34 +9,34 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 5,
+      "wonCount": 6,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 0,
       "count": 0,
-      "priorMonth": 742345,
+      "priorMonth": 776574,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 5360961,
-      "count": 42,
-      "priorMonth": 12148514
+      "amount": 5377665,
+      "count": 45,
+      "priorMonth": 12182743
     },
     "laborMonthBacklog": {
-      "months": 0.53,
-      "totalCrewDays": 70,
+      "months": 0.54,
+      "totalCrewDays": 71,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 34.08,
+      "prior30": 40.78,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 3
+      "sampleSizePrior": 4
     }
   },
   "pipeline": {
@@ -58,15 +58,24 @@
       },
       {
         "name": "In Production",
-        "count": 17,
-        "amount": 3335812
+        "count": 18,
+        "amount": 3370041
       }
     ]
   },
   "estimators": [
     {
+      "name": "S Milbury",
+      "bidsCount": 4,
+      "bidsAmount": 1565294,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
       "name": "K Sprague",
-      "bidsCount": 11,
+      "bidsCount": 13,
       "bidsAmount": 145855,
       "wonCount": 0,
       "wonAmount": 0,
@@ -86,15 +95,6 @@
       "name": "D Vaillancourt",
       "bidsCount": 17,
       "bidsAmount": 2614680,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "S Milbury",
-      "bidsCount": 3,
-      "bidsAmount": 1548591,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -146,7 +146,7 @@
     },
     {
       "weekStart": "2026-08-10",
-      "bid": 1682259,
+      "bid": 1716487,
       "won": 0,
       "wonLY": 0
     },
@@ -176,7 +176,7 @@
     },
     {
       "weekStart": "2026-09-14",
-      "bid": 0,
+      "bid": 16703,
       "won": 0,
       "wonLY": 0
     }
