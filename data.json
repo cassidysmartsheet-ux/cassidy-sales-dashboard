@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T05:16:33+00:00",
+  "generatedAt": "2026-09-21T10:56:32+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-09-21",
@@ -9,14 +9,14 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 5,
+      "wonCount": 6,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 0,
       "count": 0,
-      "priorMonth": 776574,
+      "priorMonth": 906961,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
@@ -24,19 +24,19 @@
     "bidMTD": {
       "amount": 7269739,
       "count": 59,
-      "priorMonth": 12182743
+      "priorMonth": 12287074
     },
     "laborMonthBacklog": {
-      "months": 0.54,
-      "totalCrewDays": 71,
+      "months": 0.56,
+      "totalCrewDays": 73,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 48.01,
+      "prior30": 42.72,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 3
+      "sampleSizePrior": 4
     }
   },
   "pipeline": {
@@ -58,8 +58,8 @@
       },
       {
         "name": "In Production",
-        "count": 18,
-        "amount": 3370041
+        "count": 19,
+        "amount": 3500428
       }
     ]
   },
@@ -146,7 +146,7 @@
     },
     {
       "weekStart": "2026-08-17",
-      "bid": 3606430,
+      "bid": 3710761,
       "won": 0,
       "wonLY": 0
     },
