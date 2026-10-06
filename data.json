@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-05T11:08:04+00:00",
+  "generatedAt": "2026-10-06T00:57:10+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-10-05",
+    "today": "2026-10-06",
     "mtdStart": "2026-10-01",
     "priorMtdStart": "2026-09-01",
     "priorMtdEnd": "2026-09-30"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 7,
+      "wonCount": 8,
       "lostCount": 0,
       "ratePct": 100.0
     },
@@ -22,21 +22,21 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 211640,
-      "count": 2,
+      "amount": 301116,
+      "count": 5,
       "priorMonth": 10770914
     },
     "laborMonthBacklog": {
-      "months": 0.56,
-      "totalCrewDays": 74,
+      "months": 0.58,
+      "totalCrewDays": 76,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": null,
-      "prior30": 42.72,
+      "prior30": 37.75,
       "deltaPct": null,
       "sampleSizeRecent": 0,
-      "sampleSizePrior": 4
+      "sampleSizePrior": 5
     }
   },
   "pipeline": {
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 3,
+        "amount": 142816
       },
       {
         "name": "In Production",
@@ -64,6 +64,15 @@
     ]
   },
   "estimators": [
+    {
+      "name": "D Vaillancourt",
+      "bidsCount": 3,
+      "bidsAmount": 89476,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
     {
       "name": "S Milbury",
       "bidsCount": 2,
@@ -101,7 +110,7 @@
     },
     {
       "weekStart": "2026-08-10",
-      "bid": 1716487,
+      "bid": 1741010,
       "won": 0,
       "wonLY": 0
     },
@@ -149,7 +158,7 @@
     },
     {
       "weekStart": "2026-10-05",
-      "bid": 0,
+      "bid": 89476,
       "won": 0,
       "wonLY": 0
     }
@@ -161,14 +170,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 220
+      "ageDays": 221
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 83
+      "ageDays": 84
     }
   ],
   "leadPipeline": {
