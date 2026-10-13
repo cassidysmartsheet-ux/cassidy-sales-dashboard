@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:56:38+00:00",
+  "generatedAt": "2026-10-13T21:00:16+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-10-13",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 2104333,
-      "count": 12,
+      "amount": 2225098,
+      "count": 14,
       "priorMonth": 10770914
     },
     "laborMonthBacklog": {
@@ -53,21 +53,30 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 426189
+        "count": 2,
+        "amount": 8357
       },
       {
         "name": "In Production",
-        "count": 21,
-        "amount": 3690310
+        "count": 22,
+        "amount": 4108142
       }
     ]
   },
   "estimators": [
     {
+      "name": "D Vaillancourt",
+      "bidsCount": 5,
+      "bidsAmount": 209349,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    },
+    {
       "name": "B Dunn",
-      "bidsCount": 4,
-      "bidsAmount": 479063,
+      "bidsCount": 5,
+      "bidsAmount": 583546,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -77,15 +86,6 @@
       "name": "K Sprague",
       "bidsCount": 1,
       "bidsAmount": 0,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "D Vaillancourt",
-      "bidsCount": 4,
-      "bidsAmount": 193065,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -176,7 +176,7 @@
     },
     {
       "weekStart": "2026-10-12",
-      "bid": 0,
+      "bid": 120766,
       "won": 0,
       "wonLY": 0
     }
