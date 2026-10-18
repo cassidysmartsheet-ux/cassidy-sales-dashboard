@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:01:12+00:00",
+  "generatedAt": "2026-10-18T22:24:33+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-10-18",
@@ -27,8 +27,8 @@
       "priorMonth": 10770914
     },
     "laborMonthBacklog": {
-      "months": 0.63,
-      "totalCrewDays": 83,
+      "months": 0.65,
+      "totalCrewDays": 85,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 3,
+        "amount": 68172
       },
       {
         "name": "In Production",
