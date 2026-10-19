@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-18T22:24:33+00:00",
+  "generatedAt": "2026-10-19T00:20:20+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-10-18",
+    "today": "2026-10-19",
     "mtdStart": "2026-10-01",
     "priorMtdStart": "2026-09-01",
     "priorMtdEnd": "2026-09-30"
@@ -27,8 +27,8 @@
       "priorMonth": 10770914
     },
     "laborMonthBacklog": {
-      "months": 0.65,
-      "totalCrewDays": 85,
+      "months": 0.66,
+      "totalCrewDays": 86,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 68172
+        "count": 4,
+        "amount": 118867
       },
       {
         "name": "In Production",
@@ -111,12 +111,6 @@
     }
   ],
   "weeklySeries": [
-    {
-      "weekStart": "2026-07-20",
-      "bid": 1285620,
-      "won": 0,
-      "wonLY": 0
-    },
     {
       "weekStart": "2026-07-27",
       "bid": 1490435,
@@ -188,6 +182,12 @@
       "bid": 1414515,
       "won": 0,
       "wonLY": 0
+    },
+    {
+      "weekStart": "2026-10-19",
+      "bid": 0,
+      "won": 0,
+      "wonLY": 0
     }
   ],
   "topCustomers": [],
@@ -197,14 +197,14 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 233
+      "ageDays": 234
     },
     {
       "jobId": "4199-26",
       "jobNum": "4199-26",
       "company": "Equity Partners",
       "amount": 55925,
-      "ageDays": 96
+      "ageDays": 97
     }
   ],
   "leadPipeline": {
