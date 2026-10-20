@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T10:15:47+00:00",
+  "generatedAt": "2026-10-20T15:15:22+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-10-20",
@@ -9,33 +9,33 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 5,
+      "wonCount": 6,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
-      "amount": 0,
-      "count": 0,
+      "amount": 40742,
+      "count": 1,
       "priorMonth": 0,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 3518848,
+      "amount": 3537861,
       "count": 30,
       "priorMonth": 10770914
     },
     "laborMonthBacklog": {
-      "months": 0.66,
-      "totalCrewDays": 86,
+      "months": 0.67,
+      "totalCrewDays": 88,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
-      "last30": null,
+      "last30": 40.34,
       "prior30": null,
       "deltaPct": null,
-      "sampleSizeRecent": 0,
+      "sampleSizeRecent": 1,
       "sampleSizePrior": 0
     }
   },
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 58609
+        "count": 4,
+        "amount": 99351
       },
       {
         "name": "In Production",
@@ -64,6 +64,15 @@
     ]
   },
   "estimators": [
+    {
+      "name": "K Sprague",
+      "bidsCount": 2,
+      "bidsAmount": 40742,
+      "wonCount": 1,
+      "wonAmount": 40742,
+      "lostCount": 0,
+      "hitRatePct": 100.0
+    },
     {
       "name": "D Vaillancourt",
       "bidsCount": 16,
@@ -86,15 +95,6 @@
       "name": "S Milbury",
       "bidsCount": 5,
       "bidsAmount": 1603483,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "K Sprague",
-      "bidsCount": 2,
-      "bidsAmount": 21729,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -179,7 +179,7 @@
     },
     {
       "weekStart": "2026-10-12",
-      "bid": 1414515,
+      "bid": 1433528,
       "won": 0,
       "wonLY": 0
     },
@@ -190,7 +190,12 @@
       "wonLY": 0
     }
   ],
-  "topCustomers": [],
+  "topCustomers": [
+    {
+      "name": "Summit Realty Partners",
+      "amount": 40742
+    }
+  ],
   "agingOpenBids": [
     {
       "jobId": "3587-26",
