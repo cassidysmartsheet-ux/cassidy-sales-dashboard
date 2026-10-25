@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:02:40+00:00",
+  "generatedAt": "2026-10-25T23:14:57+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-10-25",
@@ -9,14 +9,14 @@
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 6,
+      "wonCount": 7,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 40742,
       "count": 1,
-      "priorMonth": 0,
+      "priorMonth": 106326,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
@@ -24,37 +24,37 @@
     "bidMTD": {
       "amount": 5791826,
       "count": 50,
-      "priorMonth": 10770914
+      "priorMonth": 10765460
     },
     "laborMonthBacklog": {
-      "months": 0.67,
-      "totalCrewDays": 88,
+      "months": 0.7,
+      "totalCrewDays": 92,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
       "last30": 40.34,
-      "prior30": null,
-      "deltaPct": null,
+      "prior30": 26.51,
+      "deltaPct": 52.2,
       "sampleSizeRecent": 1,
-      "sampleSizePrior": 0
+      "sampleSizePrior": 1
     }
   },
   "pipeline": {
     "stages": [
       {
         "name": "Estimations Open",
-        "count": 2,
-        "amount": 543389
+        "count": 1,
+        "amount": 487464
       },
       {
         "name": "Aging > 5 days",
-        "count": 2,
-        "amount": 543389
+        "count": 1,
+        "amount": 487464
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 3,
-        "amount": 49099
+        "count": 5,
+        "amount": 199367
       },
       {
         "name": "In Production",
@@ -161,7 +161,7 @@
     },
     {
       "weekStart": "2026-09-21",
-      "bid": 3290352,
+      "bid": 3284898,
       "won": 0,
       "wonLY": 0
     },
@@ -203,13 +203,6 @@
       "company": "Salem Covenant Church",
       "amount": 487464,
       "ageDays": 240
-    },
-    {
-      "jobId": "4199-26",
-      "jobNum": "4199-26",
-      "company": "Equity Partners",
-      "amount": 55925,
-      "ageDays": 103
     }
   ],
   "leadPipeline": {
