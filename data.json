@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T08:38:16+00:00",
+  "generatedAt": "2026-11-01T15:27:26+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
     "today": "2026-11-01",
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 0,
-      "count": 0,
+      "amount": 33817,
+      "count": 1,
       "priorMonth": 15942528
     },
     "laborMonthBacklog": {
@@ -63,7 +63,17 @@
       }
     ]
   },
-  "estimators": [],
+  "estimators": [
+    {
+      "name": "D Vaillancourt",
+      "bidsCount": 1,
+      "bidsAmount": 33817,
+      "wonCount": 0,
+      "wonAmount": 0,
+      "lostCount": 0,
+      "hitRatePct": null
+    }
+  ],
   "weeklySeries": [
     {
       "weekStart": "2026-08-03",
@@ -139,7 +149,7 @@
     },
     {
       "weekStart": "2026-10-26",
-      "bid": 10143534,
+      "bid": 10177350,
       "won": 0,
       "wonLY": 0
     }
