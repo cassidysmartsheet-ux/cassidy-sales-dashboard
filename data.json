@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-31T22:49:44+00:00",
+  "generatedAt": "2026-11-01T01:47:59+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-10-31",
-    "mtdStart": "2026-10-01",
-    "priorMtdStart": "2026-09-01",
-    "priorMtdEnd": "2026-09-30"
+    "today": "2026-11-01",
+    "mtdStart": "2026-11-01",
+    "priorMtdStart": "2026-10-01",
+    "priorMtdEnd": "2026-10-31"
   },
   "kpis": {
     "hitRate90d": {
@@ -14,17 +14,17 @@
       "ratePct": 100.0
     },
     "soldMTD": {
-      "amount": 40742,
-      "count": 1,
-      "priorMonth": 106326,
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 40742,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 15942528,
-      "count": 75,
-      "priorMonth": 10765460
+      "amount": 0,
+      "count": 0,
+      "priorMonth": 15942528
     },
     "laborMonthBacklog": {
       "months": 0.7,
@@ -63,53 +63,7 @@
       }
     ]
   },
-  "estimators": [
-    {
-      "name": "K Sprague",
-      "bidsCount": 6,
-      "bidsAmount": 7422230,
-      "wonCount": 1,
-      "wonAmount": 40742,
-      "lostCount": 0,
-      "hitRatePct": 100.0
-    },
-    {
-      "name": "B Dunn",
-      "bidsCount": 14,
-      "bidsAmount": 1261881,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "D Vaillancourt",
-      "bidsCount": 34,
-      "bidsAmount": 2793292,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "S Milbury",
-      "bidsCount": 20,
-      "bidsAmount": 4440602,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    },
-    {
-      "name": "Dan Dambro",
-      "bidsCount": 1,
-      "bidsAmount": 24523,
-      "wonCount": 0,
-      "wonAmount": 0,
-      "lostCount": 0,
-      "hitRatePct": null
-    }
-  ],
+  "estimators": [],
   "weeklySeries": [
     {
       "weekStart": "2026-08-03",
@@ -190,19 +144,14 @@
       "wonLY": 0
     }
   ],
-  "topCustomers": [
-    {
-      "name": "Summit Realty Partners",
-      "amount": 40742
-    }
-  ],
+  "topCustomers": [],
   "agingOpenBids": [
     {
       "jobId": "3587-26",
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 246
+      "ageDays": 247
     }
   ],
   "leadPipeline": {
