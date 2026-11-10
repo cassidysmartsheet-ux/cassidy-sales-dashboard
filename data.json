@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-11-09T18:39:20+00:00",
+  "generatedAt": "2026-11-10T01:45:25+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-11-09",
+    "today": "2026-11-10",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31"
   },
   "kpis": {
     "hitRate90d": {
-      "wonCount": 8,
+      "wonCount": 6,
       "lostCount": 0,
       "ratePct": 100.0
     },
     "soldMTD": {
       "amount": 0,
       "count": 0,
-      "priorMonth": 270840,
+      "priorMonth": 919281,
       "yoySameMonth": 0,
       "dateSignedPopulated": false,
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 2272330,
+      "amount": 2277425,
       "count": 12,
-      "priorMonth": 16001541
+      "priorMonth": 10211327
     },
     "laborMonthBacklog": {
-      "months": 0.73,
-      "totalCrewDays": 97,
+      "months": 0.84,
+      "totalCrewDays": 111,
       "capacityCrewDaysPerMonth": 132
     },
     "avgPerSY": {
-      "last30": 41.13,
+      "last30": 41.27,
       "prior30": 26.51,
-      "deltaPct": 55.1,
-      "sampleSizeRecent": 2,
+      "deltaPct": 55.7,
+      "sampleSizeRecent": 3,
       "sampleSizePrior": 1
     }
   },
@@ -53,8 +53,8 @@
       },
       {
         "name": "Awarded Not Scheduled",
-        "count": 2,
-        "amount": 8357
+        "count": 3,
+        "amount": 656798
       },
       {
         "name": "In Production",
@@ -67,7 +67,7 @@
     {
       "name": "D Vaillancourt",
       "bidsCount": 2,
-      "bidsAmount": 100850,
+      "bidsAmount": 105944,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -152,7 +152,7 @@
     },
     {
       "weekStart": "2026-10-12",
-      "bid": 1428057,
+      "bid": 1496037,
       "won": 0,
       "wonLY": 0
     },
@@ -164,13 +164,13 @@
     },
     {
       "weekStart": "2026-10-26",
-      "bid": 10236363,
+      "bid": 4378169,
       "won": 0,
       "wonLY": 0
     },
     {
       "weekStart": "2026-11-02",
-      "bid": 2238514,
+      "bid": 2243608,
       "won": 0,
       "wonLY": 0
     },
@@ -188,7 +188,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 255
+      "ageDays": 256
     }
   ],
   "leadPipeline": {
