@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T18:27:29+00:00",
+  "generatedAt": "2026-11-20T00:47:40+00:00",
   "source": "Cassidy Smartsheet — Completed_JobCostingSheets + Operations Schedule + Sales Leads Pipeline",
   "asOf": {
-    "today": "2026-11-19",
+    "today": "2026-11-20",
     "mtdStart": "2026-11-01",
     "priorMtdStart": "2026-10-01",
     "priorMtdEnd": "2026-10-31"
@@ -22,8 +22,8 @@
       "note": "by Date of Estimate — Date Signed not populated"
     },
     "bidMTD": {
-      "amount": 3580199,
-      "count": 36,
+      "amount": 3688899,
+      "count": 37,
       "priorMonth": 10211327
     },
     "laborMonthBacklog": {
@@ -66,8 +66,8 @@
   "estimators": [
     {
       "name": "D Vaillancourt",
-      "bidsCount": 12,
-      "bidsAmount": 671612,
+      "bidsCount": 13,
+      "bidsAmount": 780312,
       "wonCount": 0,
       "wonAmount": 0,
       "lostCount": 0,
@@ -176,7 +176,7 @@
     },
     {
       "weekStart": "2026-11-16",
-      "bid": 813064,
+      "bid": 921764,
       "won": 0,
       "wonLY": 0
     }
@@ -188,7 +188,7 @@
       "jobNum": "3587-26",
       "company": "Salem Covenant Church",
       "amount": 487464,
-      "ageDays": 265
+      "ageDays": 266
     }
   ],
   "leadPipeline": {
